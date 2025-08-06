@@ -7,4 +7,4 @@ The PBPK model was developed using OSP Suite Version 11.0 (Build - 150).
 ## License
 The model is distributed under the GPLv2 License.
 ## Reference
-[1] Huang, M.C., Macente, J., Heylen S., Ning C., De Vos K., Deferm N., Annaert P. Predicting Systemic and Liver Bosentan Exposure Using Physiologically-Based Pharmacokinetic Modeling. (2025) CPT: Pharmacometrics &amp; Systems Pharmacology. XX(X), XXXX–XXXX.
+[1] Huang MC, Macente J, Heylen S, Ning C, De Vos K, Deferm N, Annaert P. Predicting Systemic and Liver Bosentan Exposure Using Physiologically-Based Pharmacokinetic Modeling. (2025) CPT Pharmacometrics Syst Pharmacol. doi: 10.1002/psp4.70085.
